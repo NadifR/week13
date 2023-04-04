@@ -1,0 +1,5 @@
+export {default as DetailPage} from "./DetailPage"
+export {default as HomePage} from "./HomePage"
+export {default as NewBook} from "./NewBookPage"
+export {default as LoginRegisterPage} from "./LoginRegisterPage"
+export {default as EditBook} from "./EditBookPage"
